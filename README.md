@@ -1,2 +1,2 @@
 # useless website
-![](out.gif)
+![](output.gif)
